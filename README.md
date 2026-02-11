@@ -61,7 +61,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by **Bayu** - feel free to reach out!
 - **GitHub:** [bayuprast](https://github.com/bayuprast)
-- **Email:** hello@bayuprast.com
 
 ---
 *Made with ❤️ and React.*
